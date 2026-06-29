@@ -1,0 +1,6 @@
+{
+  "name": "StreamFlow",
+  "description": "An advanced video streaming client enabling live HLS m3u8 playback, offline caching, adjustable speeds, custom subtitles, adaptive track selection, Picture-in-Picture, and voice search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
